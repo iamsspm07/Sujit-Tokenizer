@@ -11,7 +11,7 @@ requires-python = ">=3.9"
 license = {text = "MIT"}
 
 authors = [
-{name = "Sujit Maity", email = "[sujitmaity.in@gmail.com](mailto:sujitmaity.in@gmail.com)"}
+{name = "Sujit Maity", email = "sujitmaity.in@gmail.com"}
 ]
 
 keywords = [
