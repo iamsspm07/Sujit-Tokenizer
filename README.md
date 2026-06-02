@@ -16,7 +16,7 @@ A custom Byte-Level BPE (Byte Pair Encoding) Tokenizer implemented from scratch 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Sujit-Tokenizer.git
+git clone https://github.com/iamsspm07/Sujit-Tokenizer.git
 cd Sujit-Tokenizer
 ```
 
