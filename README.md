@@ -198,7 +198,8 @@ print(decoded)
 
 ## Author
 
-Sujit Maity
+Sujit Maity, 
+Praveen Kumar Kannan
 
 ## License
 
